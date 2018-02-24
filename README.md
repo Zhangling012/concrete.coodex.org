@@ -4,7 +4,7 @@
 
 ## 什么鬼？
 
-> Concrete是一种基于Java的服务定义规范
+> Concrete是一种基于Java的系统边界服务定义规范
 
 ```java
 @MicroService
